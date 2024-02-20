@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\GitHub\\UE_Chaos\\Chaos\\Source\\Chaos\\Chaos.Build.cs",
+		"D:\\GitHub\\UE_Chaos\\Chaos\\Source\\Chaos.Target.cs",
+		"D:\\GitHub\\UE_Chaos\\Chaos\\Source\\ChaosEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
